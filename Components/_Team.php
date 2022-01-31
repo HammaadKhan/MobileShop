@@ -30,7 +30,7 @@
                 
                     <a href=""><div class="team-text d-flex">
                         <div class="team-dp-img">
-                            <img src="/Inc/Team Image/Majid.jfif" alt="Majid">
+                            <img src="./Inc/Team Image/Majid.jfif" alt="Majid">
                         </div>
                         <div class="text-left m-2">
                             <h5>Abdul Majid Bajwa</h5>
@@ -43,7 +43,7 @@
                 
                     <a href=""><div class="team-text d-flex ">
                         <div class="team-dp-img">
-                            <img src="/Inc/Team Image/arslan1.jfif" alt="Arslan">
+                            <img src="./Inc/Team Image/arslan1.jfif" alt="Arslan">
                         </div>
                         <div class="text-left m-2">
                             <h5>Arslan Sajid</h5>
@@ -56,7 +56,7 @@
                 
                     <a href=""><div class="team-text d-flex">
                         <div class="team-dp-img">
-                            <img src="../Inc/Team Image/taha.jfif" alt="Taha">
+                            <img src="./Inc/Team Image/taha.jfif" alt="Taha">
                         </div>
                         <div class="text-left m-2">
                             <h5>Taha Awan</h5>

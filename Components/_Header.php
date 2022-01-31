@@ -10,7 +10,7 @@
           <?php if(!empty($_SESSION['login'])){  ?>
           <div class="p-1 user-panel">
                <a class="px-2" href="./CheckOut.php">Check Out</a> |
-               <a class="px-2" href="../Admin/_profile.php">Profile</a>|
+               <a class="px-2" href="./Admin/_profile.php">Profile</a>|
                <a class="px-2" href="./Functions/_logout.php">Logout</a>
           </div> <?php } else{ ?>
           <div class="p-1 user-panel">
@@ -23,7 +23,7 @@
 
      <!-- Navbar -->
      <nav class="navbar">
-          <li class="title-h"><a href="../INDEX.php">Mobile Shop</a></li>
+          <li class="title-h"><a href="./INDEX.php">Mobile Shop</a></li>
           <!-- <li class="item <?php echo ($title == "Mobile Shop" ? "active" : "") ?> "><a href="./INDEX.php">Home</a></li> -->
 
           <!-- <li class="item <?php echo ($title == "Shop" ? "active" : "") ?> "><a href="./Shop.php">Repair</a></li> -->
@@ -72,8 +72,8 @@
                     <a class="dropdown-toggle" type="button" id="dropdownMenu1"
                          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                         <a class="dropdown-item" href="../About.php">About Us</a>
-                         <a class="dropdown-item" href="../Contact.php">Contact Us</a>
+                         <a class="dropdown-item" href="./About.php">About Us</a>
+                         <a class="dropdown-item" href="./Contact.php">Contact Us</a>
                     </div>
                </div>
           </li>

@@ -14,7 +14,7 @@
             $result = mysqli_query($db, $sql);
             $row = mysqli_num_rows($result);
             if ($row > 0) {
-                # code...
+                # code..
                 while($product = mysqli_fetch_assoc($result)){
                 ?>
 
@@ -24,7 +24,7 @@
 
 
           <div class="product-display d-block m-1 p-4 bg-light border shadow-sm rounded-lg">
-          <img class="fp-img" src="../Admin/<?php echo $product['picture'] ?>"
+          <img class="fp-img" src="/Admin/<?php echo $product['picture'] ?>"
                     alt="<?php  echo $product['product_name'];  ?>">
                <h5 class="m-0 text-left"><a
                          href="Singal_Page_Product.php?id=<?php  echo $product['id']  ?>"><b><?php  echo $product['product_name']  ?></b></a>

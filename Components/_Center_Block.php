@@ -5,7 +5,7 @@
             <div class="box w-100">
                 <div class="row w-100">
                     <div class="col-xl-12 col-sm-12 container">
-                        <div class="box1" style="background-image: url(../Inc/Mobile1.jpg);">
+                        <div class="box1" style="background-image: url(./Inc/Mobile1.jpg);">
                             <a href="./Comparison.php">
                                 <!-- <h1 class="">Make Comparison</h1> -->
                             </a>
@@ -17,14 +17,14 @@
 
                 <div class="row">
                     <div class="col-md-6 col-sm-12 container">
-                        <div class="box3" style="background-image: url(/Inc/Mobile2.webp);">
+                        <div class="box3" style="background-image: url(./Inc/Mobile2.webp);">
                             <a href="./Shop.php?category=Mobiles">
                                 <!-- <h1>Mobiles</h1> -->
                             </a>
                         </div>
                     </div>
                     <div class=" col-md-6 col-sm-12 container">
-                        <div class="box4" style="background-image: url(/Inc/accesories1.png);">
+                        <div class="box4" style="background-image: url(./Inc/accesories1.png);">
                             <a id="e-btn-load" href="./Shop.php?category=Electronics">
                                 <!-- <h1 class >Electronics</h1> -->
                             </a>
@@ -33,7 +33,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-sm-12 container">
-                        <div class="box5" style="background-image: url(/Inc/cover.png);">
+                        <div class="box5" style="background-image: url(./Inc/cover.png);">
                         <br>    
                         <h1 class="rounded-lg " >Free Shipping</h1>
                             

@@ -9,12 +9,12 @@
     <div class="container about-us-container">
         <div class="row justify-content-around align-items-center">
             <div class="col-lg-5 col-xs-1 p-3">
-                <img class="img-fluid" src="../Inc/about.png" alt="">
+                <img class="img-fluid" src="./Inc/about.png" alt="">
             </div>
             <div class="col-lg-5 col-xs-1 p-3">
                 <div class="row p-2 justify-content-center align-items-center">
                     <div class="col-lg-4 col-xs-1">
-                        <img src="../Inc/Comparision2.png" height="100rem" alt="">
+                        <img src="./Inc/Comparision2.png" height="100rem" alt="">
                     
                     </div>
                     <div class="col-lg-8 col-xs-1">
@@ -25,7 +25,7 @@
                 </div>
                 <div class="row p-2 justify-content-center align-items-center">
                     <div class="col-lg-4 col-xs-1">
-                        <img src="../Inc/product_1631794852iphone-13-pro-silver-select.png" height="170rem" alt="">
+                        <img src="./Inc/product_1631794852iphone-13-pro-silver-select.png" height="170rem" alt="">
                     </div>
                     <div class="col-lg-8 col-xs-1 ">
                         <h4>Sales On Iphone-IIIX</h4>

@@ -9,7 +9,7 @@
                 <button class="wbutton">Grab Now</button>
             </div>
             <div class="container col-lg-5 col-md-5 col-sm-5 mt-sm-5">
-                <img class=" img-fluid" src="../Inc/2.jpg" alt="">
+                <img class=" img-fluid" src="./Inc/2.jpg" alt="">
             </div>
         </div>
     </div>

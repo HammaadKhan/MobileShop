@@ -1,5 +1,5 @@
 
-    <div class="container-fluid hero-header" style="background-image: url(../Inc/header.3.jpg);" >
+    <div class="container-fluid hero-header" style="background-image: url(./Inc/header.3.jpg);" >
         <div class="container hero-content">
             <h4>Mobiles Collection</h4>
             <br>
