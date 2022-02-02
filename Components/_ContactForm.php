@@ -1,4 +1,4 @@
-<!-- Content Area -->
+Content Area
 <div class="container-fluid">
      <div class="row justify-content-center align-items-center">
           <div class="col-lg-5 col-md-6 ls-content m-4">
@@ -7,8 +7,8 @@
 
                <div class="container">
                     <h1>Got Question</h1>
-                    <p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac
-                        urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.</p>
+                    <!-- <p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac
+                        urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.</p> -->
                </div>
 
                <!-- Contact Us Form -->
@@ -49,26 +49,26 @@
 
           <div class="col-lg-2 col-md-4 col-sm-8 rs-content container m-4">
                 <!-- Quick Links Block -->
-               <div class="quick-nav list-group container">
+               <!-- <div class="quick-nav list-group container">
                     <h4>Quick links</h4>
                     <li class="list-group-item"><a href="../INDEX.php">Home</a></li>
                     <li class="list-group-item"><a href="#">Shop</a></li>
                     <li class="list-group-item"><a href="#">Cart</a></li>
                     <li class="list-group-item"><a href="#">About US</a></li>
                     <li class="list-group-item"><a href="#">Contact US</a></li>
-               </div>
+               </div> -->
                 <br>
                 <hr>
                 <br>
                 <!-- Latest Collection Block -->
-               <div class="quick-nav list-group container">
+               <!-- <div class="quick-nav list-group container">
                     <h4>Latest Collection</h4>
                     <li class="list-group-item"><a href="#">Home</a></li>
                     <li class="list-group-item"><a href="#">Shop</a></li>
                     <li class="list-group-item"><a href="#">Cart</a></li>
                     <li class="list-group-item"><a href="#">About US</a></li>
                     <li class="list-group-item"><a href="#">Contact US</a></li>
-               </div>
+               </div> -->
           </div>
      </div>
 </div>

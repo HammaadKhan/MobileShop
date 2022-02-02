@@ -30,7 +30,8 @@
 
           <li class="item <?php echo ($title == "Shop" ? "active" : "") ?> "><a href="./Shop.php">Shop</a></li>
           <li class="item <?php echo ($title == "Electronics" ? "active" : "") ?>"><div class="btn-group">
-               <a href="./Shop.php?category=Mobiles" class="">Mobiles</a>
+               <a href="/Shop.php?category=Mobiles" class="">Mobiles</a>
+               <a href="./repair.php" class="">Repair</a>
                <!-- <a class=" dropdown-toggle dropdown-toggle-split"
                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <span class="sr-only">Toggle Dropdown</span>
@@ -73,7 +74,7 @@
                          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
                          <a class="dropdown-item" href="./About.php">About Us</a>
-                         <a class="dropdown-item" href="./Contact.php">Contact Us</a>
+                         <!-- <a class="dropdown-item" href="./Contact.php">Contact Us</a> -->
                     </div>
                </div>
           </li>

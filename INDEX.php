@@ -12,6 +12,8 @@
    include('./Components/_Offer_Advertisment.php');
    include('./Components/_Featured_Products.php');
    include ('./Components/_contact.php');
+   include('./Components/Repair_Pg.php');
    include('./Components/_Footer.php');
+   include('./Tawak_To..php');
    include('HTML_end.php');
 ?>

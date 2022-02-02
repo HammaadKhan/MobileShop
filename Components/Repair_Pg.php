@@ -9,7 +9,7 @@
                     <div class="col-lg-11">
                         <div class="wrapper">
                             <div class="row no-gutters justify-content-between">
-                                <div class="col-lg-6 d-flex align-items-stretch">
+                                <!-- <div class="col-lg-6 d-flex align-items-stretch">
                                     <div class="info-wrap w-100 p-5">
                                         <h3 class="mb-4">Contact</h3>
                                         <div class="dbox w-100 d-flex align-items-start">
@@ -31,7 +31,7 @@
                                         </div>
                                     </div>
 
-                                </div>
+                                </div> -->
                                 <div class="col-lg-5 ">
                                     <div class="contact-wrap w-100 p-md-5 p-4 ">
                                         <h3 class="mb-4 ">Get in Touch</h3>

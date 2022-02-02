@@ -468,3 +468,7 @@ a:focus {
     border-top: 3px solid black;
     border-bottom: 3px solid black;
 }
+
+.background {
+    background-color: #BAF1E7;
+}

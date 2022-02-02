@@ -9,7 +9,7 @@
           <a class="sidebar-brand d-flex align-items-center justify-content-center" href="../index.php">
                <!-- <div class="sidebar-brand-icon rotate-n-15"> </div> -->
                <div class="sidebar-brand-text mx-3">
-                    <h5s>Smart Mart</h5s>
+                    <h5s>Mobile Shop</h5s>
                </div>
           </a>
           <?php if ($_SESSION['user_type'] == "1" || $_SESSION['user_type'] == "2") { ?>

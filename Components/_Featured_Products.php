@@ -1,7 +1,7 @@
 <?php include('./Functions/db_connection.php'); ?>
 <hr>
 <!-- Featured Products -->
-<div class="container">
+<div class="container  background">
      <div class="text-center">
           <h1 class="display-4 lead">Featured Product</h1>
      </div>

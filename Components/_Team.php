@@ -11,19 +11,6 @@
     <br>
     <div class="container">
         <div class="row justify-content-around align-items-center">
-            <!-- <div class="col-lg-12 col-sm-12 m-0 ">
-                
-                    <a href=""><div class="team-text d-flex">
-                        <div class="team-dp-img">
-                            <img src="./Inc/Team Image/NabeelHamza.jpg" alt="NabeelHamza">
-                        </div>
-                        <div class="text-left m-2">
-                            <h5>Nabeel Hamza</h5>
-                            <p>ADCS-F19-015</p>
-                        </div>
-                    </div></a>
-                
-            </div> -->
         </div>
         <div class="row justify-content-around align-items-center">
             <div class="col-lg-4 col-sm-12">

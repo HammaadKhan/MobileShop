@@ -9,7 +9,7 @@
         <li class="title-h"><a href="./INDEX.php">Mobile Shop</a></li>
     </nav>
 </header>
- <div class="login-container h-100">
+ <div class="login-container h-100 background">
         <div class="parent-box shadow-sm jumbotron p-5 h-100">
             <div class="child-box shadow container bg-light p-5">
                 <div class="row align-items-center align-content-center">
