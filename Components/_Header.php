@@ -89,13 +89,11 @@
                     </div>
                </form>
           </li>
-          <li class="item nav-c cart-btn"><a href="./Cart.php">Cart | <span><?php 
-               if (isset($_SESSION['cart'])) {
-                    echo count($_SESSION['cart']);
-               }else{
-                    echo "0";
-               }
-          ?></span></a></li>
+         <?php
+          if(isset($_SESSION('login'))){
+               
+          }
+          ?>
           <li class="toggle"><span class="bars"></span></li>
      </nav>
 </header>
