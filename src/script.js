@@ -1,13 +1,13 @@
 $(function() {
 
     // Navbar Script
-    $(".toggle").on("click", function() {
-        if ($(".item").hasClass("active")) {
-            $(".item").removeClass("active");
-        } else {
-            $(".item").addClass("active");
-        }
-    });
+    // $(".toggle").on("click", function() {
+    //     if ($(".item").hasClass("active")) {
+    //         $(".item").removeClass("active");
+    //     } else {
+    //         $(".item").addClass("active");
+    //     }
+    // });
 
     // Tab Script
     /* $("#tab1").ready(function(e) {
